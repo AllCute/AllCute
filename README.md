@@ -13,4 +13,4 @@
 
 ## :green_heart: 𝗦𝘁𝗮𝘁𝘀
 
-![github stats](https://github-readme-stats.vercel.app/api?username=AllCute&show_icons=true&theme=dracula)
+![github stats](https://github-readme-stats.vercel.app/api?username=lixh00&show_icons=true&theme=dracula)
